@@ -1,0 +1,90 @@
+*{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.625em;
+}
+.logo{
+    width: 150px;
+    height: 50px;
+}
+#menu{
+    padding: 8px 89px;
+}
+#navbarNav .nav-item{
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 10px;
+}
+#navbarNav .nav-link{
+    color: white;
+} 
+#mySlider .carousel-item{
+    height: 722px;
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+#mySlider .carousel-caption{
+    color: white;
+    bottom: 15.25rem;
+}
+#mySlider .text{
+    font-size: 72px;
+    font-weight: 700;
+}
+#mySlider .header-btn {
+    background-color: #fff;
+    padding: 8px 40px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #222;
+    box-shadow: 0px 20px 20px 0px rgb(0 0 0 / 10%);
+    border: 1px solid transparent;
+    border-radius: 20px;
+    margin-top: 30px;
+    display: inline-block;
+}
+#mySlider .header-btn:hover {
+    border: 1px solid #fff;
+    background: transparent;
+    color: #fff;
+}
+#about{
+    height: 500px;
+    padding: 50px 0;
+}
+#about h1{
+    font-weight: 600;
+    color: #222222;
+}
+#about .info{
+    margin-top: 40px;
+}
+#about .info-left{
+    margin-top: 120px;
+}
+#about .info-rigt{
+    background-color: white;
+}
+#about .info-content {
+    box-shadow: 0px 0px 50px 0px rgb(157 157 157 / 30%);
+    position: relative;
+    background: #fff;
+    padding: 80px 100px 80px 40px;
+}
+
+
+
+
+
+
+
+#about .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
